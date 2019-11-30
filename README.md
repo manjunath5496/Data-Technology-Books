@@ -22,7 +22,27 @@
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(12).pdf" style="text-decoration:none;">Bayesian Data Analysis</a></b></li>  
 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(13).pdf" style="text-decoration:none;">Big Data: A Business and Legal Guide</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(14).pdf" style="text-decoration:none;">Big Data: Using Smart Big Data, Analytics and Metrics to Make Better Decisions and Improve Performance </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(15).pdf" style="text-decoration:none;">Big Data Demystified: How to Use Big Data, Data Science and AI to Make Better Business Decisions and Gain Competitive Advantage</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(16).pdf" style="text-decoration:none;"> Big Data, Mining, and Analytics Components of Strategic Decision Making</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(17).pdf" style="text-decoration:none;">Big-Data Analytics and Cloud Computing</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(18).pdf" style="text-decoration:none;">Community and Quality of Life. Data Needs for Informed Decision Making</a></b></li>  
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(19).pdf" style="text-decoration:none;">Data Analysis and Approximate Models: Model Choice, Location-Scale, Analysis of Variance, Nonparametric Regression
+and Image Analysis</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(20).pdf" style="text-decoration:none;">Data Analysis: A Model Comparison Approach to Regression, ANOVA, and Beyond</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(21).pdf" style="text-decoration:none;">Data Analytics in Football</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(22).pdf" style="text-decoration:none;"> Data Analytics with Hadoop: An Introduction for Data Scientists</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(23).pdf" style="text-decoration:none;">Data Analytics Models and Algorithms for Intelligent Data Analysis</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(24).pdf" style="text-decoration:none;">Data Mining for Business Analytics: Concepts, Techniques and Applications in R</a></b></li>  
 
 
 
