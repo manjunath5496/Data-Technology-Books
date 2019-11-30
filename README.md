@@ -131,8 +131,32 @@ and Image Analysis</a></b></li>
                             
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(71).pdf" style="text-decoration:none;">Think Like a Data Scientist: Tackle the data science process step-by-step</a></b></li>  
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(72).pdf" style="text-decoration:none;">What to Do When Machines Do Everything: How to Get Ahead in a World of Ai, Algorithms, Bots, and Big Data</a></b></li>  
+      <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(73).pdf" style="text-decoration:none;">500 Data Science Interview Questions and Answers</a></b></li>  
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(74).pdf" style="text-decoration:none;">An Introduction to Data: Everything You Need to Know About AI, Big Data and Data Science</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(75).pdf" style="text-decoration:none;">Big Data: A Revolution That Will Transform How We Live, Work, and Think</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(76).pdf" style="text-decoration:none;">Cloud Computing: Technologies and Strategies of the Ubiquitous Data Center</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(77).pdf" style="text-decoration:none;"> Data Driven: Harnessing Data and AI to Reinvent Customer Engagement</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(78).pdf" style="text-decoration:none;">Managing Data in Motion: Data Integration Best Practice Techniques and Technologies</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(79).pdf" style="text-decoration:none;">Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Instagram, GitHub, and More</a></b></li>  
    
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(80).pdf" style="text-decoration:none;">Practical Web Scraping for Data Science: Best Practices and Examples with Python</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(81).pdf" style="text-decoration:none;">Seven Databases in Seven Weeks</a></b></li> 
 
-
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(82).pdf" style="text-decoration:none;">The SAGE Handbook of Qualitative Data Collection</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(83).pdf" style="text-decoration:none;">The Sales Acceleration Formula: Using Data, Technology, and Inbound Selling to go from $0 to $100 Million</a></b></li>
+     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(84).pdf" style="text-decoration:none;">The Little Data Book on Information and Communication Technology 2018</a></b></li>   
+     
+     
+     
+     
+     
+     
+     
 
 </ul>
