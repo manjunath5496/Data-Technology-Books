@@ -153,7 +153,19 @@ and Image Analysis</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(84).pdf" style="text-decoration:none;">The Little Data Book on Information and Communication Technology 2018</a></b></li>   
      
      
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(85).pdf" style="text-decoration:none;">Computer and Machine Vision: Theory, Algorithms, Practicalities</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(86).pdf" style="text-decoration:none;">How to Think About Algorithms</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(87).pdf" style="text-decoration:none;">Algorithms For Dummies</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(88).pdf" style="text-decoration:none;">Algorithms Illuminated (Part 2): Graph Algorithms and Data Structures</a></b></li>  
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(89).pdf" style="text-decoration:none;">grokking algorithms</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(90).pdf" style="text-decoration:none;">Introduction to Algorithms</a></b></li> 
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(91).pdf" style="text-decoration:none;">Introduction to Genetic Algorithms</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(92).pdf" style="text-decoration:none;">Analysis of Algorithms: An Active Learning Approach</a></b></li>
      
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(84).pdf" style="text-decoration:none;">The Little Data Book on Information and Communication Technology 2018</a></b></li>      
      
      
      
