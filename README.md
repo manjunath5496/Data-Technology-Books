@@ -189,7 +189,14 @@ and Image Analysis</a></b></li>
                   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(104).pdf" style="text-decoration:none;">Hands-on Database: An Introduction to Database Design and Development</a></b></li>      
      
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(105).pdf" style="text-decoration:none;">Data Science and Analytics for Ordinary People</a></b></li>  
+              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(106).pdf" style="text-decoration:none;">The Data Science Handbook</a></b></li>
      
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(107).pdf" style="text-decoration:none;">Data Science for Business</a></b></li>  
+                  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(108).pdf" style="text-decoration:none;">Doing Data Science</a></b></li>      
+       
      
      
 
