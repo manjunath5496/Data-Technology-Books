@@ -183,8 +183,11 @@ and Image Analysis</a></b></li>
      
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(101).pdf" style="text-decoration:none;">The Deep Learning Revolution</a></b></li>  
               
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(102).pdf" style="text-decoration:none;">Database Design for Mere Mortals</a></b></li>
      
-     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(103).pdf" style="text-decoration:none;">Databases demystified</a></b></li>  
+                  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(104).pdf" style="text-decoration:none;">Hands-on Database: An Introduction to Database Design and Development</a></b></li>      
      
      
      
