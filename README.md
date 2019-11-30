@@ -165,7 +165,26 @@ and Image Analysis</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(91).pdf" style="text-decoration:none;">Introduction to Genetic Algorithms</a></b></li>  
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(92).pdf" style="text-decoration:none;">Analysis of Algorithms: An Active Learning Approach</a></b></li>
      
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(84).pdf" style="text-decoration:none;">The Little Data Book on Information and Communication Technology 2018</a></b></li>      
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(93).pdf" style="text-decoration:none;">Machine Learning For Absolute Beginners</a></b></li>      
+     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(94).pdf" style="text-decoration:none;">Kernel Methods and Machine Learning</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(95).pdf" style="text-decoration:none;">Machine Learning: An Algorithmic Perspective</a></b></li>
+     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(96).pdf" style="text-decoration:none;">The art of computer programming, volume 2: seminumerical algorithms</a></b></li>  
+     
+     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(97).pdf" style="text-decoration:none;"> Discrete and Continuous Fourier Transforms: Analysis, Applications and Fast Algorithms </a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(98).pdf" style="text-decoration:none;">The Hundred-Page Machine Learning Book</a></b></li>
+     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(99).pdf" style="text-decoration:none;">Algorithms for Data Science</a></b></li>  
+          
+     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(100).pdf" style="text-decoration:none;">Master Machine Learning Algorithms: Discover How They Work and Implement Them From Scratch</a></b></li>
+     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(101).pdf" style="text-decoration:none;">The Deep Learning Revolution</a></b></li>  
+              
+     
+     
      
      
      
