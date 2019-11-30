@@ -89,7 +89,49 @@ and Image Analysis</a></b></li>
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(48).pdf" style="text-decoration:none;">Mastering TensorFlow 1.x</a></b></li>  
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(49).pdf" style="text-decoration:none;">Natural Language Processing Recipes: Unlocking Text Data with Machine Learning and Deep Learning using Python</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(50).pdf" style="text-decoration:none;">NoSQL and SQL Data Modeling: Bringing Together Data, Semantics, and Software</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(51).pdf" style="text-decoration:none;">Object-Role Modeling Workbook: Data Modeling Exercises using ORM and NORMA</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(52).pdf" style="text-decoration:none;"> Practical Computer Vision Applications Using Deep Learning with CNNs: With Detailed Examples in Python Using TensorFlow and Kivy</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(53).pdf" style="text-decoration:none;">Practical Statistics for Data Scientists: 50 Essential Concepts</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(54).pdf" style="text-decoration:none;">Predictive Analytics</a></b></li>  
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(55).pdf" style="text-decoration:none;">Principles of Data Structures Using C and C++</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(56).pdf" style="text-decoration:none;">Quantitative Trading: Algorithms, Analytics, Data, Models, Optimization</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(57).pdf" style="text-decoration:none;">Regression Models for Data Science in R</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(58).pdf" style="text-decoration:none;"> Regression: Models, Methods and Applications</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(59).pdf" style="text-decoration:none;">Scala for Machine Learning</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(60).pdf" style="text-decoration:none;">Sports Analytics and Data Science: Winning the Game with Methods and Models</a></b></li>  
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(61).pdf" style="text-decoration:none;">Statistical and Machine-Learning Data Mining</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(62).pdf" style="text-decoration:none;">Sams Teach Yourself Data Structures and Algorithms in 24 Hours </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(63).pdf" style="text-decoration:none;">The Art of Data Science: A Guide for Anyone Who Works with Data</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(64).pdf" style="text-decoration:none;"> The Data Industry: The Business and Economics of Information and Big Data</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(65).pdf" style="text-decoration:none;">The Data Model Resource Book</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(66).pdf" style="text-decoration:none;">The Digital Transformation Playbook: Rethink Your Business for the Digital Age</a></b></li>  
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(67).pdf" style="text-decoration:none;">The Enterprise Big Data Lake: Delivering the Promise of Big Data and Data Science</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(68).pdf" style="text-decoration:none;">The Essentials of Data Science: Knowledge Discovery Using R</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(69).pdf" style="text-decoration:none;">The Functional Approach to Data Management</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(70).pdf" style="text-decoration:none;"> The Model Thinker: What You Need to Know to Make Data Work for You</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(71).pdf" style="text-decoration:none;">Think Like a Data Scientist: Tackle the data science process step-by-step</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(72).pdf" style="text-decoration:none;">What to Do When Machines Do Everything: How to Get Ahead in a World of Ai, Algorithms, Bots, and Big Data</a></b></li>  
+   
 
 
 
