@@ -45,6 +45,50 @@ and Image Analysis</a></b></li>
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(24).pdf" style="text-decoration:none;">Data Mining for Business Analytics: Concepts, Techniques and Applications in R</a></b></li>  
 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(25).pdf" style="text-decoration:none;">Data Model Patterns: A Metadata Map</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(26).pdf" style="text-decoration:none;">Data Model Scorecard: Applying the Industry Standard on Data Model Quality</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(27).pdf" style="text-decoration:none;">Data Modeling Essentials</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(28).pdf" style="text-decoration:none;"> Data Modeling for MongoDB: Building Well-Designed and Supportable MongoDB Databases</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(29).pdf" style="text-decoration:none;">Data Modeling Techniques for Data Warehousing</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(30).pdf" style="text-decoration:none;">Data Science Algorithms in a Week</a></b></li>  
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(31).pdf" style="text-decoration:none;">Data Science For Dummies</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(32).pdf" style="text-decoration:none;">Data Science from Scratch</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(33).pdf" style="text-decoration:none;">Data Structures And Algorithms Made Easy</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(34).pdf" style="text-decoration:none;"> Data Communication and Computer Network Tutorial</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(35).pdf" style="text-decoration:none;">Data Structures and Problem Solving Using Java</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(36).pdf" style="text-decoration:none;">Database Design for Smarties: Using UML for Data Modeling</a></b></li>  
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(37).pdf" style="text-decoration:none;">Database Modeling and Design: Logical Design</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(38).pdf" style="text-decoration:none;">Data-driven Modelling of Structured Populations</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(39).pdf" style="text-decoration:none;">Enabling Things to Talk: Designing IoT solutions with the IoT Architectural Reference Model</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(40).pdf" style="text-decoration:none;"> Fact Oriented Modeling with FCO-IM: Capturing Business Semantics in Data Models with Fully Communication Oriented Information Modeling</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(41).pdf" style="text-decoration:none;">Data Mining: Concepts,Models and Techniques</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(42).pdf" style="text-decoration:none;">From Big Data to Big Profits: Success with Data and Analytics</a></b></li>  
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(43).pdf" style="text-decoration:none;">Fuzzy Modeling and Genetic Algorithms or Data Mining and Exploration</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(44).pdf" style="text-decoration:none;">Hadoop: Data Processing and Modelling</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(45).pdf" style="text-decoration:none;">Healthcare Analytics: From Data to Knowledge to Healthcare Improvement</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(46).pdf" style="text-decoration:none;"> Introduction to Machine Learning</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(47).pdf" style="text-decoration:none;">Learn Keras for Deep Neural Networks: A Fast-Track Approach to Modern Deep Learning with Python</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Archaeoastronomy-Books/blob/master/arc(48).pdf" style="text-decoration:none;">Mastering TensorFlow 1.x</a></b></li>  
+
+
 
 
 
