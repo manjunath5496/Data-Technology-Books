@@ -306,6 +306,32 @@ and Image Analysis</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(169).pdf" style="text-decoration:none;">Database management systems</a></b></li>   
 
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(170).pdf" style="text-decoration:none;">Advanced Data Warehouse Design</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(171).pdf" style="text-decoration:none;">Dark Web: Exploring and Data Mining the Dark Side of the Web</a></b></li>  
+     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(172).pdf" style="text-decoration:none;">Data Mining with Rattle and R</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(173).pdf" style="text-decoration:none;">Data Preparation for Data Mining</a></b></li>    
+     
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(174).pdf" style="text-decoration:none;">Data-Driven Marketing: The 15 Metrics Everyone in Marketing Should Know</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(175).pdf" style="text-decoration:none;">Frontiers in Massive Data Analysis</a></b></li>  
+     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(176).pdf" style="text-decoration:none;">Making Sense of Data I</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(177).pdf" style="text-decoration:none;">Making Sense of Data II</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(178).pdf" style="text-decoration:none;">Mastering Data Warehouse Aggregates</a></b></li>       
+     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(179).pdf" style="text-decoration:none;">Mastering Data Warehouse Design: Relational and Dimensional Techniques</a></b></li>   
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(180).pdf" style="text-decoration:none;">The Data Warehouse Lifecycle Toolkit</a></b></li>       
+     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(181).pdf" style="text-decoration:none;">Building the Data Warehouse</a></b></li>   
+
+
+
+
+
+
+
+
 
 
 
