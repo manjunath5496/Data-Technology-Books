@@ -296,10 +296,18 @@ and Image Analysis</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(162).pdf" style="text-decoration:none;">Knowledge Transfer between Computer Vision and Text Mining</a></b></li>  
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(163).pdf" style="text-decoration:none;">Explainable and Interpretable Models in Computer Vision and Machine Learning</a></b></li>    
      
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(164).pdf" style="text-decoration:none;">Concise Computer Vision: An Introduction into Theory and Algorithms</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(165).pdf" style="text-decoration:none;">Database System Concepts</a></b></li>  
      
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(166).pdf" style="text-decoration:none;">Databases for Small Business: Essentials of Database Management, Data Analysis, and Staff Training for Entrepreneurs and Professionals</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(167).pdf" style="text-decoration:none;">Database Management System Tutorial</a></b></li>     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(168).pdf" style="text-decoration:none;">Distributed Database Management Systems: A Practical Approach</a></b></li>       
      
-     
-     
-     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(169).pdf" style="text-decoration:none;">Database management systems</a></b></li>   
+
+
+
+
+
 
 </ul>
