@@ -242,6 +242,7 @@ and Image Analysis</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(130).pdf" style="text-decoration:none;"> Neural Networks for Applied Sciences and Engineering</a></b></li>
                             
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(131).pdf" style="text-decoration:none;">Neural Networks with R</a></b></li>  
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(132).pdf" style="text-decoration:none;">3D Computer Vision: Efficient Methods and Applications</a></b></li>
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(133).pdf" style="text-decoration:none;">Neural-Based Orthogonal Data Fitting: The EXIN Neural Networks</a></b></li>  
 
 
@@ -281,6 +282,24 @@ and Image Analysis</a></b></li>
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(153).pdf" style="text-decoration:none;">Computer Vision: Algorithms and Applications</a></b></li>  
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(154).pdf" style="text-decoration:none;">Multiple View Geometry in Computer Vision</a></b></li> 
 
-  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(155).pdf" style="text-decoration:none;"> Integration of Natural Language and Vision Processing: Computational Models and Systems</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(156).pdf" style="text-decoration:none;">Interactive Curve Modeling: With Applications to Computer Graphics, Vision and Image Processing</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(157).pdf" style="text-decoration:none;">Numerical Algorithms</a></b></li>  
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(158).pdf" style="text-decoration:none;">Programming Computer Vision with Python</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(159).pdf" style="text-decoration:none;">Computer Vision and Machine Learning with RGB-D Sensors</a></b></li> 
+     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(160).pdf" style="text-decoration:none;">Advances in Embedded Computer Vision</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(161).pdf" style="text-decoration:none;">Computer Vision for Visual Effects</a></b></li>  
+     
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(162).pdf" style="text-decoration:none;">Knowledge Transfer between Computer Vision and Text Mining</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(163).pdf" style="text-decoration:none;">Explainable and Interpretable Models in Computer Vision and Machine Learning</a></b></li>    
+     
+     
+     
+     
+     
+     
 
 </ul>
