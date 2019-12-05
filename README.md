@@ -199,5 +199,88 @@ and Image Analysis</a></b></li>
        
      
      
+     
+     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(109).pdf" style="text-decoration:none;">AI for Data science</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(110).pdf" style="text-decoration:none;">Applied Deep Learning: A Case-Based Approach to Understanding Deep Neural Networks</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(111).pdf" style="text-decoration:none;">Artificial Neural Networks: A Practical Course</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(112).pdf" style="text-decoration:none;"> Artificial Neural Networks in Real-life Applications</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(113).pdf" style="text-decoration:none;">Comprehensive Mathematics for Computer Scientists 2: Calculus and ODEs, Splines, Probability, Fourier andWavelet Theory, Fractals and Neural Networks, Categories and Lambda Calculus</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(114).pdf" style="text-decoration:none;">Computational Intelligence and Its Applications: Evolutionary Computation, Fuzzy Logic, Neural Network and Support Vector Machine Techniques</a></b></li>  
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(115).pdf" style="text-decoration:none;">Computer Science, Robotics, Artificial Intelligence, Neural Networks, IT, Mobiles</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(116).pdf" style="text-decoration:none;">Deep Learning and Convolutional Neural Networks for Medical Image Computing</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(117).pdf" style="text-decoration:none;">Deep Learning: Practical Neural Networks with Java</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(118).pdf" style="text-decoration:none;">Neural Networks and Learning Machines</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(119).pdf" style="text-decoration:none;">Elements of Artificial Neural Networks</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(120).pdf" style="text-decoration:none;">Evolutionary computation</a></b></li>  
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(121).pdf" style="text-decoration:none;">FPGA Implementations of Neural Networks</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(122).pdf" style="text-decoration:none;">Intelligent Optimisation Techniques: Genetic Algorithms, Tabu Search, Simulated Annealing and Neural Networks</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(123).pdf" style="text-decoration:none;">Introduction to the math of neural networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(124).pdf" style="text-decoration:none;"> Neural Networks &minus; A Visual Introduction For Beginners</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(125).pdf" style="text-decoration:none;">Neural Modeling and Neural Networks</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(126).pdf" style="text-decoration:none;">Neural Network Applications </a></b></li>  
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(127).pdf" style="text-decoration:none;">Neural network dynamics</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(128).pdf" style="text-decoration:none;">Neural Network Programming with Java</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(129).pdf" style="text-decoration:none;">Neural Networks and Deep Learning: A Textbook</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(130).pdf" style="text-decoration:none;"> Neural Networks for Applied Sciences and Engineering</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(131).pdf" style="text-decoration:none;">Neural Networks with R</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(133).pdf" style="text-decoration:none;">Neural-Based Orthogonal Data Fitting: The EXIN Neural Networks</a></b></li>  
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(134).pdf" style="text-decoration:none;">New Directions in Neural Networks</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(135).pdf" style="text-decoration:none;">Recent Advances of Neural Network Models and Applications </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(136).pdf" style="text-decoration:none;">TensorFlow in 1 Day: Make your own Neural Network</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(137).pdf" style="text-decoration:none;"> Theory and Applications of Neural Networks</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(138).pdf" style="text-decoration:none;">Unsupervised Deep Learning in Python</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(139).pdf" style="text-decoration:none;">Arduino Computer Vision Programming</a></b></li>  
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(140).pdf" style="text-decoration:none;">Computer Graphics, Visualization, Computer Vision and Image Processing</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(141).pdf" style="text-decoration:none;">Computer and Machine Vision: Theory, Algorithms, Practicalities</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(142).pdf" style="text-decoration:none;">Computer Vision and Applications: A Guide for Students and Practitioners</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(143).pdf" style="text-decoration:none;"> Computer Vision Metrics: Survey, Taxonomy and Analysis of Computer Vision, Visual Neuroscience, and Deep Learning</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(144).pdf" style="text-decoration:none;">Computer Vision: A Modern Approach</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(145).rar" style="text-decoration:none;">Computer Vision: Models, Learning, and Inference</a></b></li>  
+      <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(146).pdf" style="text-decoration:none;">Foundations of Computer Vision: Computational Geometry, Visual Image Structures and Object Shape Detection</a></b></li>  
+
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(147).pdf" style="text-decoration:none;">Handbook of Geometric Computing</a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(148).pdf" style="text-decoration:none;">Natural Image Statistics: A Probabilistic Approach to Early Computational Vision</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(149).pdf" style="text-decoration:none;">Practical Computer Vision Applications Using Deep Learning with CNNs</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(150).pdf" style="text-decoration:none;"> Raspberry Pi Robotic Projects</a></b></li>
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(151).pdf" style="text-decoration:none;">Recent Developments in Computer Vision</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(152).pdf" style="text-decoration:none;">Robust Computer Vision: Theory and Applications</a></b></li>  
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(153).pdf" style="text-decoration:none;">Computer Vision: Algorithms and Applications</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Data-Technology-Books/blob/master/dth(154).pdf" style="text-decoration:none;">Multiple View Geometry in Computer Vision</a></b></li> 
+
+  
 
 </ul>
